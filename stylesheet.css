@@ -111,6 +111,10 @@ header {
   background-color: rgba(255,255,255,0.3);
 }
 
+ul {
+  display: flex;
+}
+
 .lesson-wrapper {
   height: 580px;
   padding-bottom: 80px;
