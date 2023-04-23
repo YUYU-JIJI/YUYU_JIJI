@@ -4,9 +4,13 @@ body {
 }
 
 h1 {
- font-size:100px;
+ font-size:500px;
 }
 
 img{
-  width:1200px;
+  width:500px;
 }
+
+h3 {
+ cloer:red;
+ }
