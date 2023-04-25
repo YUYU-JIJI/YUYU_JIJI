@@ -7,6 +7,16 @@ body {
   margin: 0;
 }
 
+.top {
+  width:1200px;
+  background-image: url('200123_0380 3.JPG');
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
 .container {
   max-width: 800px;
   margin: 0 auto;
@@ -21,5 +31,12 @@ nav {
 nav ul {
   list-style: none;
   margin: 0;
-  padding: 0
+  padding: 0;
+}
 
+.hero {
+  background-image: url('200123_0380 3.JPG');
+  background-size: cover;
+  height: 300px;
+  display: flex;
+  justify-content
