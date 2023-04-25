@@ -16,6 +16,10 @@ body {
   justify-content: center;
 }
 
+li {
+float:left;
+}
+
 
 .container {
   max-width: 800px;
