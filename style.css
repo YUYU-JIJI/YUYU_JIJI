@@ -1,19 +1,26 @@
 .top {
-width:1200px;
-height:200px;
+      width:1200px;
+      height:200px;
+      text-align:center;
       }
 
 .body {
       width :1200px ;
+      text-align:center;
       }
 
-.box-1 {      }
+.box-1 {
+      width :1200px ;
+      text-align:center;
+      }
 
 .box-2 {
-      width :1200px;
+      width :1200px ;
+      text-align:center;
       }
 
 .box-3 {
-      width :1200px;
+      width :1200px ;
+      text-align:center;
       }
 
