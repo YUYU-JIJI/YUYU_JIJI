@@ -18,7 +18,7 @@ table {
 .topimage {
       height: 500px;
       width: 1280px;
-      background-image:url(top.png);
+      background-image:url(topimage.jpg);
       background-size: cover;
       background-position: center;
       }
