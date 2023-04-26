@@ -8,10 +8,12 @@
       width:1280px;
       height:50px;
       text-align:right;
+      margin:auto; 
       }
 
 table {
       text-align:center;
+      margin:auto; 
       }
 
 .topimage {
@@ -20,42 +22,47 @@ table {
       background-image:url(topimage.jpg);
       background-size: cover;
       background-position: center;
+      margin:auto; 
       }
 
 .topimage h1{
       float:left;
       padding:30px;
       color:#ffffff;
+      margin:auto; 
       }
 
 .box-1 {
       width :1280px ;
       height:600px ;
       text-align:center;
+      margin:auto; 
       }
 
 .box-2 {
       width :1280px ;
       text-align:center;
+      margin:auto; 
       }
 
 .box-3 {
       width :1280px ;
       text-align:center;
+      margin:auto; 
       }
 
 li{
 list-style:none;
 float:right;
 padding:10px;
+      margin:auto; 
 }
 
 .flex {
-  display: flex; /*横並び*/
+  display: flex;
+  margin:auto; 
 }
 .flex .image {
-  width: 640px;
-  height: 400px;
   margin: 0;
   padding: 0;
   overflow: hidden;
