@@ -11,6 +11,11 @@ table {
 .topimage {
       height: 1280px;
       background-image:url(../img/001.jpg);
+      }
+
+.topimage h1{
+      float:left;
+      }
 
 .body {
       width :960px ;
