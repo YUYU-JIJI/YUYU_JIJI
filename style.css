@@ -16,6 +16,8 @@ table {
 
 .topimage h1{
       float:left;
+      padding:30px;
+      color:#ffffff;
       }
 
 .body {
@@ -37,4 +39,10 @@ table {
       width :960px ;
       text-align:center;
       }
+
+li{
+list-style:none;
+float:left;
+padding:30px;
+}
 
