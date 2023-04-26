@@ -1,5 +1,5 @@
-.top {
-      width:1200px;
+.topbar {
+      width:960px;
       height:200px;
       text-align:center;
       }
@@ -8,23 +8,27 @@ table {
       text-align:center;
       }
 
+.topimage {
+      height: 1280px;
+      background-image:url(../img/001.jpg);
+
 .body {
-      width :1200px ;
+      width :960px ;
       text-align:center;
       }
 
 .box-1 {
-      width :1200px ;
+      width :960px ;
       text-align:center;
       }
 
 .box-2 {
-      width :1200px ;
+      width :960px ;
       text-align:center;
       }
 
 .box-3 {
-      width :1200px ;
+      width :960px ;
       text-align:center;
       }
 
