@@ -1,12 +1,12 @@
 .body {
-      width :1980px ;
+      width :1280px ;
       margin:0px;
       padding:0px; 
       text-align:center;
       }
 
 .topbar {
-      width:1980px;
+      width:1280px;
       height:50px;
       text-align:right;
       }
@@ -17,9 +17,8 @@ table {
 
 .topimage {
       height: 500px;
-      width: 1980px;
+      width: 1280px;
       background-image:url(200123_0380 3.JPG);
-      background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
       }
@@ -31,17 +30,17 @@ table {
       }
 
 .box-1 {
-      width :1980px ;
+      width :1280px ;
       text-align:center;
       }
 
 .box-2 {
-      width :1980px ;
+      width :1280px ;
       text-align:center;
       }
 
 .box-3 {
-      width :1980px ;
+      width :1280px ;
       text-align:center;
       }
 
