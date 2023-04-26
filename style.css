@@ -1,12 +1,12 @@
 .body {
-      width :960px ;
+      width :1980px ;
       margin:0px;
       padding:0px; 
       text-align:center;
       }
 
 .topbar {
-      width:960px;
+      width:1980px;
       height:50px;
       text-align:right;
       }
@@ -17,8 +17,8 @@ table {
 
 .topimage {
       height: 500px;
-      width: 960px;
-      background-image:url(001.jpg);
+      width: 1980px;
+      background-image:url(200123_0380 3.JPG);
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
@@ -31,23 +31,23 @@ table {
       }
 
 .box-1 {
-      width :960px ;
+      width :1980px ;
       text-align:center;
       }
 
 .box-2 {
-      width :960px ;
+      width :1980px ;
       text-align:center;
       }
 
 .box-3 {
-      width :960px ;
+      width :1980px ;
       text-align:center;
       }
 
 li{
 list-style:none;
-float:left;
-padding:30px;
+float:right;
+padding:10px;
 }
 
